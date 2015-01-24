@@ -59,3 +59,12 @@ footer{
 	text-align: center;
 	line-height: 6;
 }
+
+strong{
+	font-style:italic;
+	font-weight: normal;
+}
+
+
+
+
