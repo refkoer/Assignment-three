@@ -18,6 +18,23 @@ ol{
 }
 
 ul{
-	list-style-type: none;
-	padding: 0;
+	list-style-type: upper-roman;
+}
+
+a{
+	color:#4a7b91;
+}
+
+a:hover{
+	color: #9bdfff;
+}
+
+dt{
+	font-weight:bold;
+	font-family: 'Oswald', sans-serif;
+}
+
+figcaption{
+	font-style: italic;
+	font-size: 1rem;
 }
