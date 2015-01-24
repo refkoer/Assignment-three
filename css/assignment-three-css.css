@@ -2,9 +2,12 @@ html{
 	background-color: #9bc2d4
 
 }
-
-h1{
+body{
+	font-size:1.3rem;
 	font-family: 'Oswald', sans-serif;
+}
+h1{
+font-family: 'Oswald', sans-serif;
 	text-decoration: underline;
 	font-size: 3rem;
 	line-height: 1;
@@ -37,6 +40,7 @@ dt{
 figcaption{
 	font-style: italic;
 	font-size: 1rem;
+	font-family: 'Josefin Slab', serif;
 }
 
 blockquote{
@@ -46,6 +50,12 @@ blockquote{
 	font-style: italic;
 }
 
-footer,cite{
-	font-family: 'Josefin Slab', serif;
+b,em{
+	color: #4a7b91;
+}
+
+footer{
+	font-size: 1rem;
+	text-align: center;
+	line-height: 6;
 }
