@@ -38,3 +38,14 @@ figcaption{
 	font-style: italic;
 	font-size: 1rem;
 }
+
+blockquote{
+	font-family: 'Josefin Slab', serif;
+	font-size: 2rem;
+	color: #4a7b91;
+	font-style: italic;
+}
+
+footer,cite{
+	font-family: 'Josefin Slab', serif;
+}
